@@ -1,0 +1,31 @@
+C:\Users\mauro\documents\visual studio 2010\Projects\HospitalTalca\HospitalTalca\bin\Debug\HospitalTalca.exe
+C:\Users\mauro\documents\visual studio 2010\Projects\HospitalTalca\HospitalTalca\bin\Debug\HospitalTalca.pdb
+C:\Users\mauro\documents\visual studio 2010\Projects\HospitalTalca\HospitalTalca\bin\Debug\HospitalTalca.xml
+C:\Users\mauro\documents\visual studio 2010\Projects\HospitalTalca\HospitalTalca\obj\x86\Debug\HospitalTalca.FrnLogin.resources
+C:\Users\mauro\documents\visual studio 2010\Projects\HospitalTalca\HospitalTalca\obj\x86\Debug\HospitalTalca.FrnMenuPrincipal.resources
+C:\Users\mauro\documents\visual studio 2010\Projects\HospitalTalca\HospitalTalca\obj\x86\Debug\HospitalTalca.Resources.resources
+C:\Users\mauro\documents\visual studio 2010\Projects\HospitalTalca\HospitalTalca\obj\x86\Debug\HospitalTalca.vbproj.GenerateResource.Cache
+C:\Users\mauro\documents\visual studio 2010\Projects\HospitalTalca\HospitalTalca\obj\x86\Debug\HospitalTalca.exe
+C:\Users\mauro\documents\visual studio 2010\Projects\HospitalTalca\HospitalTalca\obj\x86\Debug\HospitalTalca.xml
+C:\Users\mauro\documents\visual studio 2010\Projects\HospitalTalca\HospitalTalca\obj\x86\Debug\HospitalTalca.pdb
+C:\Users\mauro\documents\visual studio 2010\Projects\HospitalTalca\HospitalTalca\bin\Debug\Database\PruebaDataBase.accdb
+C:\Users\mauro\documents\visual studio 2010\Projects\HospitalTalca\HospitalTalca\obj\x86\Debug\HospitalTalca.ConsultarPaciente.resources
+D:\HospitalTalca\HospitalTalca\obj\x86\Debug\HospitalTalca.exe
+D:\HospitalTalca\HospitalTalca\obj\x86\Debug\HospitalTalca.xml
+D:\HospitalTalca\HospitalTalca\obj\x86\Debug\HospitalTalca.pdb
+D:\HospitalTalca\HospitalTalca\bin\Debug\Database\PruebaDataBase.accdb
+D:\HospitalTalca\HospitalTalca\bin\Debug\HospitalTalca.exe
+D:\HospitalTalca\HospitalTalca\bin\Debug\HospitalTalca.pdb
+D:\HospitalTalca\HospitalTalca\bin\Debug\HospitalTalca.xml
+D:\HospitalTalca\HospitalTalca\obj\x86\Debug\HospitalTalca.ConsultarPaciente.resources
+D:\HospitalTalca\HospitalTalca\obj\x86\Debug\HospitalTalca.FrnLogin.resources
+D:\HospitalTalca\HospitalTalca\obj\x86\Debug\HospitalTalca.FrnMenuPrincipal.resources
+D:\HospitalTalca\HospitalTalca\obj\x86\Debug\HospitalTalca.Resources.resources
+D:\HospitalTalca\HospitalTalca\obj\x86\Debug\HospitalTalca.vbproj.GenerateResource.Cache
+D:\HospitalTalca\HospitalTalca\obj\x86\Debug\HospitalTalca.FrmIngresarConsulta.resources
+D:\HospitalTalca\HospitalTalca\obj\x86\Debug\HospitalTalca.FrmModificarConsulta.resources
+D:\HospitalTalca\HospitalTalca\obj\x86\Debug\HospitalTalca.ConsultarEspecialidad.resources
+D:\HospitalTalca\HospitalTalca\obj\x86\Debug\HospitalTalca.ConsultarTipoPaciente.resources
+C:\Users\mauro\Desktop\HospitalTalca\HospitalTalca\obj\x86\Debug\HospitalTalca.exe
+C:\Users\mauro\Desktop\HospitalTalca\HospitalTalca\obj\x86\Debug\HospitalTalca.xml
+C:\Users\mauro\Desktop\HospitalTalca\HospitalTalca\obj\x86\Debug\HospitalTalca.pdb

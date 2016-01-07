@@ -1,0 +1,140 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+HospitalTalca
+</name>
+</assembly>
+<members>
+<member name="P:HospitalTalca.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:HospitalTalca.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:HospitalTalca.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:HospitalTalca.PruebaDataBaseDataSet.ConsultasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:HospitalTalca.PruebaDataBaseDataSet.EspecialidadDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:HospitalTalca.PruebaDataBaseDataSet.PacienteDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:HospitalTalca.PruebaDataBaseDataSet.TipoConsultaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:HospitalTalca.PruebaDataBaseDataSet.UsuariosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:HospitalTalca.PruebaDataBaseDataSet.ConsultasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:HospitalTalca.PruebaDataBaseDataSet.EspecialidadRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:HospitalTalca.PruebaDataBaseDataSet.PacienteRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:HospitalTalca.PruebaDataBaseDataSet.TipoConsultaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:HospitalTalca.PruebaDataBaseDataSet.UsuariosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:HospitalTalca.PruebaDataBaseDataSet.ConsultasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:HospitalTalca.PruebaDataBaseDataSet.EspecialidadRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:HospitalTalca.PruebaDataBaseDataSet.PacienteRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:HospitalTalca.PruebaDataBaseDataSet.TipoConsultaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:HospitalTalca.PruebaDataBaseDataSet.UsuariosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:HospitalTalca.PruebaDataBaseDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:HospitalTalca.PruebaDataBaseDataSetTableAdapters.ConsultasTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:HospitalTalca.PruebaDataBaseDataSetTableAdapters.EspecialidadTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:HospitalTalca.PruebaDataBaseDataSetTableAdapters.PacienteTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:HospitalTalca.PruebaDataBaseDataSetTableAdapters.TipoConsultaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:HospitalTalca.PruebaDataBaseDataSetTableAdapters.UsuariosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:HospitalTalca.PruebaDataBaseDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(HospitalTalca.PruebaDataBaseDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:HospitalTalca.PruebaDataBaseDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(HospitalTalca.PruebaDataBaseDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:HospitalTalca.PruebaDataBaseDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(HospitalTalca.PruebaDataBaseDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:HospitalTalca.PruebaDataBaseDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:HospitalTalca.PruebaDataBaseDataSetTableAdapters.TableAdapterManager.UpdateAll(HospitalTalca.PruebaDataBaseDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:HospitalTalca.PruebaDataBaseDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:HospitalTalca.PruebaDataBaseDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:HospitalTalca.PruebaDataBaseDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>
